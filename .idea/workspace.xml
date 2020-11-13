@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:proceeding_ciki" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bde0ef31-bc24-48da-b5da-7cf466af6b6b" name="Default Changelist" comment="Ultima versao do proceeding com beackup 13-11-2020">
-      <change afterPath="$PROJECT_DIR$/.idea/anais_ciki.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATENCAO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anais_ciki/styles/build.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anais_ciki/styles/index.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +81,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -101,15 +121,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ultima versao do proceeding com beackup 13-11-2020" />
     <option name="LAST_COMMIT_MESSAGE" value="Ultima versao do proceeding com beackup 13-11-2020" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="99" y="124" width="1168" height="545" key="DiffContextDialog" timestamp="1605305346401">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="99" y="124" width="1168" height="545" key="DiffContextDialog/0.24.1366.744@0.24.1366.744" timestamp="1605305346401" />
     <state x="187" y="31" key="SettingsEditor" timestamp="1605294287404">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="187" y="31" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1605294287404" />
+    <state x="278" y="132" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1605305416313">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="278" y="132" width="802" height="523" key="Vcs.Push.Dialog.v2/0.24.1366.744@0.24.1366.744" timestamp="1605305416313" />
   </component>
 </project>
