@@ -1,0 +1,10 @@
+Configurar o arquivo (config.inc.php).
+
+Linhas: 
+32 - path de acesso (configurado para localhost)
+131 a 135 - configurações de BD.
+212 - path dos arquivos do proceeding (configurado apenas o nome da pasta que contem os arquivos (arq_ciki). Configurar o resto do caminho ate a pasta)
+
+OBS:
+Existem outras configurações, mas é importante salientar que a partir da linha 515 comença a parte de debug.
+
