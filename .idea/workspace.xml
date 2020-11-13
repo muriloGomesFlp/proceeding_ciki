@@ -19,15 +19,15 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:proceeding_ciki" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde0ef31-bc24-48da-b5da-7cf466af6b6b" name="Default Changelist" comment="Ultima versao do proceeding com beackup 13-11-2020">
-      <change afterPath="$PROJECT_DIR$/anais_ciki/styles/build.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anais_ciki/styles/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +83,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bde0ef31-bc24-48da-b5da-7cf466af6b6b" name="Default Changelist" comment="" />
@@ -105,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605298734792</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ultima versao do proceeding com beackup 13-11-2020">
+      <created>1605305525868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605305525868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ultima versao do proceeding com beackup 13-11-2020">
+      <created>1605305581746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605305581746</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +134,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -128,17 +158,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="Ultima versao do proceeding com beackup 13-11-2020" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="442" y="267" width="473" height="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605305557260">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="442" y="267" width="473" height="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.24.1366.744@0.24.1366.744" timestamp="1605305557260" />
     <state x="99" y="124" width="1168" height="545" key="DiffContextDialog" timestamp="1605305346401">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="99" y="124" width="1168" height="545" key="DiffContextDialog/0.24.1366.744@0.24.1366.744" timestamp="1605305346401" />
-    <state x="187" y="31" key="SettingsEditor" timestamp="1605294287404">
+    <state x="187" y="31" key="SettingsEditor" timestamp="1605305769465">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state x="187" y="31" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1605294287404" />
-    <state x="278" y="132" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1605305416313">
+    <state x="187" y="31" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1605305769465" />
+    <state x="278" y="132" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1605305590651">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state x="278" y="132" width="802" height="523" key="Vcs.Push.Dialog.v2/0.24.1366.744@0.24.1366.744" timestamp="1605305416313" />
+    <state x="278" y="132" width="802" height="523" key="Vcs.Push.Dialog.v2/0.24.1366.744@0.24.1366.744" timestamp="1605305590651" />
   </component>
 </project>
