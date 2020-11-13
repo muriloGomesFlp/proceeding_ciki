@@ -1,0 +1,4 @@
+O Arquivo dump.sql foi gerado como formato sql.
+O arquivo dump_func_copy.sql foi gerado com formato COPY.
+
+Este banco originalmente esta sendo usado no postgress.
