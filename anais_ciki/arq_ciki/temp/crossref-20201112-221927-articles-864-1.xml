@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" version="4.3.6" xsi:schemaLocation="http://www.crossref.org/schema/4.3.6 https://www.crossref.org/schemas/crossref4.3.6.xsd">
+  <head>
+    <doi_batch_id>_1605219567</doi_batch_id>
+    <timestamp>1605219567</timestamp>
+    <depositor>
+      <depositor_name>Fernando Alvaro Ostuni Gauthier</depositor_name>
+      <email_address>fernando.gauthier@gmail.com</email_address>
+    </depositor>
+    <registrant>Comitê Cientifico ciKi</registrant>
+  </head>
+  <body>
+    <conference>
+      <event_metadata>
+        <conference_name>Congresso Internacional de Conhecimento e Inovação – ciki</conference_name>
+        <conference_acronym>ciKi</conference_acronym>
+        <conference_date>19 e 20 de Novembro de 2020</conference_date>
+      </event_metadata>
+      <proceedings_series_metadata>
+        <series_metadata>
+          <title>
+            <title> Anais do IX Congresso Internacional de Conhecimento e Inovação (ciKi)</title>
+          </title>
+          <issn>2318-5376</issn>
+        </series_metadata>
+        <publisher>
+          <publisher_name>Ciki - Congresso Internacional de Conhecimento e Inovação</publisher_name>
+        </publisher>
+        <noisbn reason="archive_volume"/>
+        <publication_date media_type="online">
+          <month>11</month>
+          <day>11</day>
+          <year>2020</year>
+        </publication_date>
+      </proceedings_series_metadata>
+      <conference_paper xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" publication_type="full_text" metadata_distribution_opts="any">
+        <titles>
+          <title>PLATAFORMA VÊNUS</title>
+          <subtitle>FERRAMENTA DE COMBATE À VIOLÊNCIA CONTRA AS MULHERES POR MEIO DA GESTÃO DO CONHECIMENTO</subtitle>
+        </titles>
+        <contributors>
+          <person_name contributor_role="author" sequence="first" language="pt">
+            <given_name>Carlos Williamy</given_name>
+            <surname>Lourenço Andrade</surname>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="pt">
+            <given_name>Eduardo</given_name>
+            <surname>Chaves Santos</surname>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="pt">
+            <given_name>Alexandre Rogério </given_name>
+            <surname>Da Silva Calado</surname>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="pt">
+            <given_name>Ricardo</given_name>
+            <surname>Dantas de Oliveira</surname>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional" language="pt">
+            <given_name>Ricardo André</given_name>
+            <surname>Cavalcante de Souza</surname>
+          </person_name>
+        </contributors>
+        <jats:abstract xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1">
+          <jats:p>A violência contra as mulheres é um problema social motivado pelo machismo e pela desigualdade de gênero que muitas vezes leva à perda de vidas humanas e também impacta fortemente à economia. Uma das metas do Objetivo de Desenvolvimento Sustentável da ONU, trata sobre “eliminar todas as formas de violência contra todas as mulheres e meninas nas esferas públicas e privadas”. Este trabalho relata a aplicação de uma abordagem de Gestão do Conhecimento para produzir conhecimentos a partir da interconexão entre informações sobre a temática da violência contra as mulheres e, para então, usar tais informações e conhecimentos como base para o desenvolvimento de uma solução digital. Assim, como principal resultado apresenta-se uma aplicação web, objetivando ser uma ferramenta de combate e mitigação da violência contra as mulheres</jats:p>
+        </jats:abstract>
+        <publication_date media_type="online">
+          <month>11</month>
+          <day>11</day>
+          <year>2020</year>
+        </publication_date>
+        <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+          <ai:license_ref>http://creativecommons.org/licenses/by-nc-sa/4.0</ai:license_ref>
+        </ai:program>
+        <doi_data>
+          <doi>10.48090/ciki.v1i1.864</doi>
+          <resource>https://proceeding.ciki.ufsc.br/index.php/ciki/article/view/864</resource>
+          <collection property="crawler-based">
+            <item crawler="iParadigms">
+              <resource>https://proceeding.ciki.ufsc.br/index.php/ciki/article/download/864/472</resource>
+            </item>
+          </collection>
+          <collection property="text-mining">
+            <item>
+              <resource mime_type="application/pdf">https://proceeding.ciki.ufsc.br/index.php/ciki/article/download/864/472</resource>
+            </item>
+          </collection>
+        </doi_data>
+      </conference_paper>
+    </conference>
+  </body>
+</doi_batch>

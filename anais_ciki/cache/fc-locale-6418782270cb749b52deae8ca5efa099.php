@@ -1,0 +1,16 @@
+<?php return array (
+  'api.submissions.403.cantChangeContext' => 'Não é possível alterar a revista de uma submissão.',
+  'api.submissions.403.unpublishedIssues' => 'Não é permitido visualizar edições não publicadas.',
+  'api.submissions.403.contextRequired' => 'Para criar ou alterar uma submissão, deve-se fazer uma solicitação ao ponto de acesso da API na revista.',
+  'api.contexts.403.requestedDisabledContexts' => 'Pode-se apenas ver as revistas que foram habilitadas.',
+  'api.contexts.403.notAllowed' => 'Você não tem permissão para visualizar esta revista.',
+  'api.contexts.403.contextsDidNotMatch' => 'Você não pode visualizar ou editar esta revista, a menos que faça uma solicitação à API da revista ou à API de todo o site.',
+  'api.contexts.403.requiresContext' => 'Você não pode editar esta revista a partir da API de todo o site.',
+  'api.contexts.403.notAllowedEdit' => 'Você não tem permissão para editar esta revista.',
+  'api.contexts.403.notAllowedDelete' => 'Você não tem permissão para excluir esta revista.',
+  'api.contexts.404.contextNotFound' => 'A revista solicitada não foi encontrada.',
+  'api.emailTemplates.403.notAllowedChangeContext' => 'Você não tem permissão para mover este modelo de e-mail para outra revista.',
+  'api._payments.400.invalidPaymentMethod' => 'O método de pagamento selecionado não é suportado.',
+  'api.publications.403.contextsDidNotMatch' => 'A publicação solicitada não faz parte desta revista.',
+  'api.publications.403.submissionsDidNotMatch' => 'A publicação solicitada não faz parte desta submissão.',
+);
